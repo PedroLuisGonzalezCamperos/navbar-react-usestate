@@ -1,0 +1,45 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+  align-items: center;
+
+  ul {
+    display: flex;
+    list-style: none;
+
+    li {
+      padding: 0 20px;
+      font-size: 25px;
+    }
+  }
+
+  .cartwitget {
+    display: flex;
+  
+    p {
+      padding: 0 10px;
+      margin: auto;
+    }
+  
+    .cart-icon {
+      font-size: 40px;
+    }
+  }
+
+}
+
+.itemlistcontainer {
+
+text-align: center;
+
+}
+
+.logo {
+
+width: 150px;
+
+
+}
